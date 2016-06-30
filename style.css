@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+.main {
+	margin: auto;
+	width: 70%;
+	position: relative;
+}
+
+thead td{
+	background-color: lightgray;
+	padding: 10px;
+}
+
+table{
+	border-width: 2px;
+	background-color: lightgray;
+}
+
+tbody td {
+	background-color: white;
+	border-bottom-color: lightgray;
+	padding: 6px;
+}
